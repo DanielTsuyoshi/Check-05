@@ -32,21 +32,33 @@ O projeto cria uma plataforma de automação e monitoramento que permite control
 ### Sensores:
 
 PIR Motion Sensor (sensor de movimento por infravermelho passivo) - Detecta movimento e é geralmente usado para segurança ou automação residencial.
+
 DHT11 Temperature & Humidity Sensor (sensor de temperatura e umidade) - Mede a temperatura e a umidade do ambiente.
+
 Proximity Sensor (sensor de proximidade) - Detecta objetos próximos e é frequentemente usado em aplicações de detecção de presença ou proximidade.
+
 MQ135 Gas Sensor (sensor de gás) - Detecta a presença de gases específicos no ambiente, como CO2 e amônia.
+
 LDR Light Sensor (sensor de luz) - Detecta a intensidade de luz no ambiente e é comumente usado para controle de luminosidade.
 
 ## Atuadores:
 
 ESP32 Board - Um microcontrolador que pode ser programado para controlar dispositivos e processar dados de sensores.
+
 NodeMCU - Outro microcontrolador baseado no ESP8266, que pode ser usado para a automação e controle de dispositivos.
+
 5V Relay (relé) - É usado para controlar dispositivos de alta tensão ou corrente com sinais de baixa tensão, como um microcontrolador.
+
 BC547 Transistor - Pode ser usado como um interruptor eletrônico para controlar corrente em circuitos.
+
 9V 2A Adapter (adaptador de energia) - Fornecerá energia ao sistema, mas não é estritamente um atuador no sentido tradicional.
+
 7805 IC (regulador de tensão) - É usado para fornecer uma tensão regulada a partir de uma entrada não regulada.
+
 2-Pin Terminal Connectors (conectores terminais de 2 pinos) - São usados para fazer conexões elétricas.
-Componentes passivos:
+
+## Componentes passivos:
 
 1N4007 Diode (diodo) - É usado para direcionar o fluxo de corrente em um circuito.
+
 330 ohm Resistors (resistores de 330 ohms) - São componentes passivos que podem ser usados para limitar a corrente ou dividir a tensão em um circuito.
